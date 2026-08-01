@@ -1,0 +1,460 @@
+---
+title: "Matthew"
+---
+
+# Matthew
+
+::: {.book-summary}
+## Book Summary Insight
+
+Matthew presents Jesus as the promised Messiah and King who fulfills the Old Testament. The book teaches that God's kingdom has come through Christ and calls people to faithful discipleship.
+:::
+
+::: {.chapter-entry}
+## Chapter 1
+
+<div class="key-verse">Matthew 1:23</div>
+
+<div class="identifier">Behold, a virgin shall be with child</div>
+
+### Why This Verse
+
+Fulfillment of Isaiah 7:14
+
+### Chapter Insight
+
+This chapter establishes Jesus' genealogy and miraculous birth. The key verse emphasizes Jesus as the promised Messiah and Savior.
+:::
+
+::: {.chapter-entry}
+## Chapter 2
+
+<div class="key-verse">Matthew 2:11</div>
+
+<div class="identifier">They presented unto Him gifts</div>
+
+### Why This Verse
+
+Visit of the Magi
+
+### Chapter Insight
+
+This chapter records the visit of the wise men and God's protection of the child Jesus. The key verse highlights God's sovereign fulfillment of prophecy.
+:::
+
+::: {.chapter-entry}
+## Chapter 3
+
+<div class="key-verse">Matthew 3:2</div>
+
+<div class="identifier">Repent ye: for the kingdom of heaven is at hand</div>
+
+### Why This Verse
+
+John the Baptist's message
+
+### Chapter Insight
+
+This chapter introduces John the Baptist and Jesus' baptism. The key verse calls people to repentance in preparation for God's kingdom.
+:::
+
+::: {.chapter-entry}
+## Chapter 4
+
+<div class="key-verse">Matthew 4:4</div>
+
+<div class="identifier">Man shall not live by bread alone</div>
+
+### Why This Verse
+
+Jesus' response to temptation
+
+### Chapter Insight
+
+This chapter records Jesus' temptation and the beginning of His ministry. The key verse demonstrates victory through obedience to God's Word.
+:::
+
+::: {.chapter-entry}
+## Chapter 5
+
+<div class="key-verse">Matthew 5:16</div>
+
+<div class="identifier">Let your light so shine before men</div>
+
+### Why This Verse
+
+Sermon on the Mount highlight
+
+### Chapter Insight
+
+This chapter begins the Sermon on the Mount. The key verse describes the character and values of God's kingdom citizens.
+:::
+
+::: {.chapter-entry}
+## Chapter 6
+
+<div class="key-verse">Matthew 6:33</div>
+
+<div class="identifier">Seek ye first the kingdom of God</div>
+
+### Why This Verse
+
+One of the most quoted verses in Matthew
+
+### Chapter Insight
+
+This chapter teaches about prayer, giving, fasting, and trust. The key verse calls believers to seek first God's kingdom above earthly concerns.
+:::
+
+::: {.chapter-entry}
+## Chapter 7
+
+<div class="key-verse">Matthew 7:1</div>
+
+<div class="identifier">Judge not, that ye be not judged</div>
+
+### Why This Verse
+
+One of the best-known verses in Scripture
+
+### Chapter Insight
+
+This chapter concludes the Sermon on the Mount. The key verse emphasizes putting Jesus' teachings into practice.
+:::
+
+::: {.chapter-entry}
+## Chapter 8
+
+<div class="key-verse">Matthew 8:8</div>
+
+<div class="identifier">Speak the word only</div>
+
+### Why This Verse
+
+Centurion's faith
+
+### Chapter Insight
+
+This chapter demonstrates Jesus' authority through miracles. The key verse highlights Christ's power over sickness, nature, and spiritual forces.
+:::
+
+::: {.chapter-entry}
+## Chapter 9
+
+<div class="key-verse">Matthew 9:37</div>
+
+<div class="identifier">The harvest truly is plenteous</div>
+
+### Why This Verse
+
+Call for laborers
+
+### Chapter Insight
+
+This chapter records additional miracles and Jesus' call to discipleship. The key verse reveals Jesus' mission to call sinners and show mercy.
+:::
+
+::: {.chapter-entry}
+## Chapter 10
+
+<div class="key-verse">Matthew 10:16</div>
+
+<div class="identifier">Wise as serpents and harmless as doves</div>
+
+### Why This Verse
+
+Discipleship instruction
+
+### Chapter Insight
+
+This chapter commissions the twelve apostles for ministry. The key verse emphasizes faithful witness despite opposition and persecution.
+:::
+
+::: {.chapter-entry}
+## Chapter 11
+
+<div class="key-verse">Matthew 11:28</div>
+
+<div class="identifier">Come unto Me, all ye that labor</div>
+
+### Why This Verse
+
+One of Jesus' greatest invitations
+
+### Chapter Insight
+
+This chapter records Jesus' response to John the Baptist and His invitation to find rest in Him. The key verse emphasizes the spiritual rest available through Christ.
+:::
+
+::: {.chapter-entry}
+## Chapter 12
+
+<div class="key-verse">Matthew 12:34</div>
+
+<div class="identifier">Out of the abundance of the heart the mouth speaks</div>
+
+### Why This Verse
+
+Heart and speech
+
+### Chapter Insight
+
+This chapter highlights growing opposition to Jesus and His authority over the Sabbath. The key verse reveals that mercy and righteousness are central to God's purposes.
+:::
+
+::: {.chapter-entry}
+## Chapter 13
+
+<div class="key-verse">Matthew 13:44</div>
+
+<div class="identifier">The kingdom of heaven is like treasure hidden in a field</div>
+
+### Why This Verse
+
+Kingdom parable
+
+### Chapter Insight
+
+This chapter contains the Parables of the Kingdom. The key verse explains that God's kingdom grows through the reception of His Word.
+:::
+
+::: {.chapter-entry}
+## Chapter 14
+
+<div class="key-verse">Matthew 14:29</div>
+
+<div class="identifier">Peter walked on the water</div>
+
+### Why This Verse
+
+Famous faith narrative
+
+### Chapter Insight
+
+This chapter records John the Baptist's death, the feeding of the five thousand, and Jesus walking on water. The key verse demonstrates Christ's compassion and divine power.
+:::
+
+::: {.chapter-entry}
+## Chapter 15
+
+<div class="key-verse">Matthew 15:8</div>
+
+<div class="identifier">This people draweth nigh unto Me with their mouth</div>
+
+### Why This Verse
+
+Quotation from Isaiah on true worship
+
+### Chapter Insight
+
+This chapter contrasts human traditions with true obedience. The key verse teaches that the heart, not outward ritual, determines spiritual condition.
+:::
+
+::: {.chapter-entry}
+## Chapter 16
+
+<div class="key-verse">Matthew 16:18</div>
+
+<div class="identifier">Upon this rock I will build My church</div>
+
+### Why This Verse
+
+Foundational church passage
+
+### Chapter Insight
+
+This chapter records Peter's confession and Jesus' first prediction of His death. The key verse identifies Jesus as the Messiah, the Son of the living God.
+:::
+
+::: {.chapter-entry}
+## Chapter 17
+
+<div class="key-verse">Matthew 17:20</div>
+
+<div class="identifier">If ye have faith as a grain of mustard seed</div>
+
+### Why This Verse
+
+Famous teaching on faith
+
+### Chapter Insight
+
+This chapter recounts the Transfiguration. The key verse reveals Jesus' divine glory and authority.
+:::
+
+::: {.chapter-entry}
+## Chapter 18
+
+<div class="key-verse">Matthew 18:20</div>
+
+<div class="identifier">Where two or three are gathered in My name</div>
+
+### Why This Verse
+
+One of the most quoted verses in Matthew
+
+### Chapter Insight
+
+This chapter teaches humility, forgiveness, and relationships within God's kingdom. The key verse emphasizes childlike humility as essential for discipleship.
+:::
+
+::: {.chapter-entry}
+## Chapter 19
+
+<div class="key-verse">Matthew 19:26</div>
+
+<div class="identifier">With God all things are possible</div>
+
+### Why This Verse
+
+Widely quoted encouragement
+
+### Chapter Insight
+
+This chapter addresses marriage, wealth, and commitment to Christ. The key verse highlights the cost and reward of following Jesus.
+:::
+
+::: {.chapter-entry}
+## Chapter 20
+
+<div class="key-verse">Matthew 20:28</div>
+
+<div class="identifier">The Son of man came not to be ministered unto, but to minister</div>
+
+### Why This Verse
+
+Core statement of Christ's mission
+
+### Chapter Insight
+
+This chapter teaches about grace, servanthood, and Jesus' sacrificial mission. The key verse declares that the Son of Man came to serve and give His life as a ransom for many.
+:::
+
+::: {.chapter-entry}
+## Chapter 21
+
+<div class="key-verse">Matthew 21:13</div>
+
+<div class="identifier">My house shall be called the house of prayer</div>
+
+### Why This Verse
+
+Jesus cleanses the temple
+
+### Chapter Insight
+
+This chapter records Jesus' triumphal entry into Jerusalem and cleansing of the Temple. The key verse presents Jesus as the promised King entering His city in fulfillment of prophecy.
+:::
+
+::: {.chapter-entry}
+## Chapter 22
+
+<div class="key-verse">Matthew 22:37</div>
+
+<div class="identifier">Thou shalt love the Lord thy God</div>
+
+### Why This Verse
+
+The Greatest Commandment
+
+### Chapter Insight
+
+This chapter contains parables and confrontations with religious leaders. The key verse summarizes the greatest commandments as loving God and loving others.
+:::
+
+::: {.chapter-entry}
+## Chapter 23
+
+<div class="key-verse">Matthew 23:12</div>
+
+<div class="identifier">He that shall humble himself shall be exalted</div>
+
+### Why This Verse
+
+Central kingdom principle
+
+### Chapter Insight
+
+This chapter pronounces woes upon the scribes and Pharisees. The key verse condemns hypocrisy and calls for genuine righteousness.
+:::
+
+::: {.chapter-entry}
+## Chapter 24
+
+<div class="key-verse">Matthew 24:35</div>
+
+<div class="identifier">Heaven and earth shall pass away, but My words shall not pass away</div>
+
+### Why This Verse
+
+Enduring authority of Christ
+
+### Chapter Insight
+
+This chapter contains the Olivet Discourse concerning future events. The key verse emphasizes readiness and faithfulness while awaiting Christ's return.
+:::
+
+::: {.chapter-entry}
+## Chapter 25
+
+<div class="key-verse">Matthew 25:40</div>
+
+<div class="identifier">As ye have done it unto one of the least of these</div>
+
+### Why This Verse
+
+Judgment and compassion
+
+### Chapter Insight
+
+This chapter presents parables of preparedness, stewardship, and final judgment. The key verse teaches faithful service in anticipation of the King's return.
+:::
+
+::: {.chapter-entry}
+## Chapter 26
+
+<div class="key-verse">Matthew 26:41</div>
+
+<div class="identifier">Watch and pray, that ye enter not into temptation</div>
+
+### Why This Verse
+
+Gethsemane instruction
+
+### Chapter Insight
+
+This chapter records the Last Supper, Gethsemane, and Jesus' arrest. The key verse reveals the establishment of the New Covenant through Christ's sacrifice.
+:::
+
+::: {.chapter-entry}
+## Chapter 27
+
+<div class="key-verse">Matthew 27:46</div>
+
+<div class="identifier">My God, My God, why hast Thou forsaken Me?</div>
+
+### Why This Verse
+
+Christ's cry from the cross
+
+### Chapter Insight
+
+This chapter recounts Jesus' trial, crucifixion, death, and burial. The key verse highlights Christ's sacrificial death for the sins of humanity.
+:::
+
+::: {.chapter-entry}
+## Chapter 28
+
+<div class="key-verse">Matthew 28:19</div>
+
+<div class="identifier">Go ye therefore, and teach all nations</div>
+
+### Why This Verse
+
+The Great Commission
+
+### Chapter Insight
+
+This chapter records the resurrection and the Great Commission. The key verse commissions believers to make disciples of all nations under Christ's authority.
+:::
+

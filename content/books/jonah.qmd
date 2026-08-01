@@ -1,0 +1,76 @@
+---
+title: "Jonah"
+---
+
+# Jonah
+
+::: {.book-summary}
+## Book Summary Insight
+
+Jonah reveals God's compassion for all nations through the reluctant prophet's mission to Nineveh. The book teaches that God's mercy extends far beyond Israel.
+:::
+
+::: {.chapter-entry}
+## Chapter 1
+
+<div class="key-verse">Jonah 1:17</div>
+
+<div class="identifier">The LORD prepared a great fish</div>
+
+### Why This Verse
+
+Most recognized event in Jonah
+
+### Chapter Insight
+
+This chapter records Jonah's attempt to flee from God's call. The key verse demonstrates that no one can escape God's presence or purposes.
+:::
+
+::: {.chapter-entry}
+## Chapter 2
+
+<div class="key-verse">Jonah 2:9</div>
+
+<div class="identifier">Salvation is of the LORD</div>
+
+### Why This Verse
+
+Central theological statement
+
+### Chapter Insight
+
+This chapter contains Jonah's prayer from inside the great fish. The key verse emphasizes that salvation and deliverance belong to the Lord alone.
+:::
+
+::: {.chapter-entry}
+## Chapter 3
+
+<div class="key-verse">Jonah 3:10</div>
+
+<div class="identifier">God repented of the disaster</div>
+
+### Why This Verse
+
+Nineveh's repentance
+
+### Chapter Insight
+
+This chapter recounts Jonah's preaching in Nineveh and the city's repentance. The key verse highlights God's mercy toward those who genuinely turn from sin.
+:::
+
+::: {.chapter-entry}
+## Chapter 4
+
+<div class="key-verse">Jonah 4:2</div>
+
+<div class="identifier">Gracious and merciful, slow to anger</div>
+
+### Why This Verse
+
+Jonah's complaint and God's character
+
+### Chapter Insight
+
+This chapter records Jonah's anger over God's compassion toward Nineveh. The key verse reveals God's concern for all people and His desire to show mercy.
+:::
+

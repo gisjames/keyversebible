@@ -1,0 +1,268 @@
+---
+title: "Mark"
+---
+
+# Mark
+
+::: {.book-summary}
+## Book Summary Insight
+
+Mark presents Jesus as the suffering Servant and powerful Son of God. The book emphasizes action, authority, and sacrificial service as the path to true greatness.
+:::
+
+::: {.chapter-entry}
+## Chapter 1
+
+<div class="key-verse">Mark 1:17</div>
+
+<div class="identifier">Follow Me, and I will make you fishers of men</div>
+
+### Why This Verse
+
+Famous discipleship call
+
+### Chapter Insight
+
+This chapter introduces John the Baptist, Jesus' baptism, temptation, and early ministry. The key verse presents Jesus proclaiming the arrival of God's kingdom and calling for repentance and faith.
+:::
+
+::: {.chapter-entry}
+## Chapter 2
+
+<div class="key-verse">Mark 2:17</div>
+
+<div class="identifier">I came not to call the righteous, but sinners</div>
+
+### Why This Verse
+
+Mission of Jesus
+
+### Chapter Insight
+
+This chapter records healings and growing opposition from religious leaders. The key verse emphasizes Jesus' authority to forgive sins.
+:::
+
+::: {.chapter-entry}
+## Chapter 3
+
+<div class="key-verse">Mark 3:35</div>
+
+<div class="identifier">Whoever does the will of God</div>
+
+### Why This Verse
+
+True family of God
+
+### Chapter Insight
+
+This chapter describes the appointment of the twelve disciples and increasing conflict. The key verse highlights Jesus' establishment of a community centered on doing God's will.
+:::
+
+::: {.chapter-entry}
+## Chapter 4
+
+<div class="key-verse">Mark 4:39</div>
+
+<div class="identifier">Peace, be still</div>
+
+### Why This Verse
+
+One of Jesus' best-known miracles
+
+### Chapter Insight
+
+This chapter contains parables about the kingdom of God. The key verse teaches that spiritual fruitfulness depends on receiving God's Word.
+:::
+
+::: {.chapter-entry}
+## Chapter 5
+
+<div class="key-verse">Mark 5:36</div>
+
+<div class="identifier">Be not afraid, only believe</div>
+
+### Why This Verse
+
+Famous encouragement
+
+### Chapter Insight
+
+This chapter records dramatic demonstrations of Jesus' power. The key verse reveals Christ's authority over demons, disease, and death.
+:::
+
+::: {.chapter-entry}
+## Chapter 6
+
+<div class="key-verse">Mark 6:34</div>
+
+<div class="identifier">He was moved with compassion</div>
+
+### Why This Verse
+
+Character of Jesus
+
+### Chapter Insight
+
+This chapter recounts rejection at Nazareth, the mission of the twelve, and the feeding of the five thousand. The key verse emphasizes compassion and ministry despite opposition.
+:::
+
+::: {.chapter-entry}
+## Chapter 7
+
+<div class="key-verse">Mark 7:6</div>
+
+<div class="identifier">This people honors Me with their lips</div>
+
+### Why This Verse
+
+True worship
+
+### Chapter Insight
+
+This chapter contrasts tradition with true righteousness. The key verse teaches that defilement comes from the heart rather than external practices.
+:::
+
+::: {.chapter-entry}
+## Chapter 8
+
+<div class="key-verse">Mark 8:36</div>
+
+<div class="identifier">What shall it profit a man?</div>
+
+### Why This Verse
+
+One of the most quoted sayings of Jesus
+
+### Chapter Insight
+
+This chapter records Peter's confession and Jesus' teaching about discipleship. The key verse identifies Jesus as the Messiah and calls followers to self-denial.
+:::
+
+::: {.chapter-entry}
+## Chapter 9
+
+<div class="key-verse">Mark 9:23</div>
+
+<div class="identifier">All things are possible to him that believeth</div>
+
+### Why This Verse
+
+Widely quoted faith verse
+
+### Chapter Insight
+
+This chapter includes the Transfiguration and further teaching on discipleship. The key verse reveals Jesus' divine glory and the necessity of humble service.
+:::
+
+::: {.chapter-entry}
+## Chapter 10
+
+<div class="key-verse">Mark 10:27</div>
+
+<div class="identifier">With God all things are possible</div>
+
+### Why This Verse
+
+Parallel to Matthew 19
+
+### Chapter Insight
+
+This chapter addresses marriage, wealth, leadership, and sacrifice. The key verse declares that Jesus came to serve and give His life as a ransom for many.
+:::
+
+::: {.chapter-entry}
+## Chapter 11
+
+<div class="key-verse">Mark 11:24</div>
+
+<div class="identifier">What things soever ye desire when ye pray</div>
+
+### Why This Verse
+
+Famous prayer verse
+
+### Chapter Insight
+
+This chapter records the triumphal entry and cleansing of the Temple. The key verse highlights faith, prayer, and God's authority.
+:::
+
+::: {.chapter-entry}
+## Chapter 12
+
+<div class="key-verse">Mark 12:30</div>
+
+<div class="identifier">Love the Lord thy God with all thy heart</div>
+
+### Why This Verse
+
+Greatest Commandment
+
+### Chapter Insight
+
+This chapter contains parables and debates with religious leaders. The key verse summarizes true devotion through love for God and neighbor.
+:::
+
+::: {.chapter-entry}
+## Chapter 13
+
+<div class="key-verse">Mark 13:31</div>
+
+<div class="identifier">Heaven and earth shall pass away</div>
+
+### Why This Verse
+
+Enduring words of Christ
+
+### Chapter Insight
+
+This chapter presents Jesus' teaching about future events. The key verse emphasizes watchfulness and readiness for His return.
+:::
+
+::: {.chapter-entry}
+## Chapter 14
+
+<div class="key-verse">Mark 14:38</div>
+
+<div class="identifier">Watch ye and pray</div>
+
+### Why This Verse
+
+Gethsemane instruction
+
+### Chapter Insight
+
+This chapter records the Last Supper, Gethsemane, and Jesus' arrest. The key verse highlights the New Covenant established through Christ's sacrifice.
+:::
+
+::: {.chapter-entry}
+## Chapter 15
+
+<div class="key-verse">Mark 15:34</div>
+
+<div class="identifier">My God, My God, why hast Thou forsaken Me?</div>
+
+### Why This Verse
+
+Crucifixion cry
+
+### Chapter Insight
+
+This chapter recounts Jesus' trial, crucifixion, and burial. The key verse emphasizes Christ's sacrificial death and the centurion's recognition of His identity.
+:::
+
+::: {.chapter-entry}
+## Chapter 16
+
+<div class="key-verse">Mark 16:15</div>
+
+<div class="identifier">Go ye into all the world</div>
+
+### Why This Verse
+
+Great Commission in Mark
+
+### Chapter Insight
+
+This chapter records the resurrection and the commission to proclaim the gospel. The key verse celebrates Christ's victory over death and the spread of the good news.
+:::
+

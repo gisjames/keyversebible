@@ -1,0 +1,92 @@
+---
+title: "James"
+---
+
+# James
+
+::: {.book-summary}
+## Book Summary Insight
+
+James emphasizes practical Christian living, teaching that authentic faith produces visible obedience, wisdom, humility, and perseverance.
+:::
+
+::: {.chapter-entry}
+## Chapter 1
+
+<div class="key-verse">James 1:22</div>
+
+<div class="identifier">Be ye doers of the word</div>
+
+### Why This Verse
+
+Core message of James
+
+### Chapter Insight
+
+This chapter teaches perseverance through trials and the importance of obedient faith. The key verse emphasizes being doers of God's Word rather than merely hearers.
+:::
+
+::: {.chapter-entry}
+## Chapter 2
+
+<div class="key-verse">James 2:17</div>
+
+<div class="identifier">Faith without works is dead</div>
+
+### Why This Verse
+
+One of the most discussed NT verses
+
+### Chapter Insight
+
+This chapter condemns favoritism and explains the relationship between faith and works. The key verse teaches that genuine faith demonstrates itself through action.
+:::
+
+::: {.chapter-entry}
+## Chapter 3
+
+<div class="key-verse">James 3:17</div>
+
+<div class="identifier">The wisdom that is from above</div>
+
+### Why This Verse
+
+Godly wisdom
+
+### Chapter Insight
+
+This chapter addresses the power of the tongue and the nature of true wisdom. The key verse highlights the need for self-control in speech and wisdom from above.
+:::
+
+::: {.chapter-entry}
+## Chapter 4
+
+<div class="key-verse">James 4:7</div>
+
+<div class="identifier">Submit yourselves therefore to God</div>
+
+### Why This Verse
+
+Spiritual warfare and humility
+
+### Chapter Insight
+
+This chapter warns against worldliness, pride, and self-reliance. The key verse calls believers to submit themselves humbly to God.
+:::
+
+::: {.chapter-entry}
+## Chapter 5
+
+<div class="key-verse">James 5:16</div>
+
+<div class="identifier">The effectual fervent prayer of a righteous man availeth much</div>
+
+### Why This Verse
+
+Famous prayer verse
+
+### Chapter Insight
+
+This chapter addresses wealth, patience, prayer, and restoration. The key verse emphasizes the effectiveness of fervent, righteous prayer.
+:::
+

@@ -1,0 +1,30 @@
+---
+title: "{{ book }}"
+---
+
+# {{ book }}
+
+::: {.book-summary}
+## Book Summary Insight
+
+{{ summary }}
+:::
+
+{% for c in chapters %}
+::: {.chapter-entry}
+## Chapter {{ c.chapter }}
+
+<div class="key-verse">{{ c.verse }}</div>
+
+<div class="identifier">{{ c.identifier }}</div>
+
+### Why This Verse
+
+{{ c.why }}
+
+### Chapter Insight
+
+{{ c.insight }}
+:::
+
+{% endfor %}

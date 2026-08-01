@@ -1,0 +1,112 @@
+project:
+  type: book
+  output-dir: output
+  pre-render:
+    - python scripts/build.py --generate-only
+
+metadata-files:
+  - metadata.yml
+
+book:
+  title: "The Key Verse of Every Chapter of the Bible"
+  subtitle: "Representative Verses, Chapter Insights, and Book Summaries for All 1,189 Chapters"
+  author: "Compiled and Edited by James Vogl"
+  search: true
+  chapters:
+    - index.qmd
+    - content/frontmatter/preface.qmd
+    - content/frontmatter/methodology.qmd
+    - content/frontmatter/acknowledgments.qmd
+    - content/books/genesis.qmd
+    - content/books/exodus.qmd
+    - content/books/leviticus.qmd
+    - content/books/numbers.qmd
+    - content/books/deuteronomy.qmd
+    - content/books/joshua.qmd
+    - content/books/judges.qmd
+    - content/books/ruth.qmd
+    - content/books/1-samuel.qmd
+    - content/books/2-samuel.qmd
+    - content/books/1-kings.qmd
+    - content/books/2-kings.qmd
+    - content/books/1-chronicles.qmd
+    - content/books/2-chronicles.qmd
+    - content/books/ezra.qmd
+    - content/books/nehemiah.qmd
+    - content/books/esther.qmd
+    - content/books/job.qmd
+    - content/books/psalms.qmd
+    - content/books/proverbs.qmd
+    - content/books/ecclesiastes.qmd
+    - content/books/song-of-solomon.qmd
+    - content/books/isaiah.qmd
+    - content/books/jeremiah.qmd
+    - content/books/lamentations.qmd
+    - content/books/ezekiel.qmd
+    - content/books/daniel.qmd
+    - content/books/hosea.qmd
+    - content/books/joel.qmd
+    - content/books/amos.qmd
+    - content/books/obadiah.qmd
+    - content/books/jonah.qmd
+    - content/books/micah.qmd
+    - content/books/nahum.qmd
+    - content/books/habakkuk.qmd
+    - content/books/zephaniah.qmd
+    - content/books/haggai.qmd
+    - content/books/zechariah.qmd
+    - content/books/malachi.qmd
+    - content/books/matthew.qmd
+    - content/books/mark.qmd
+    - content/books/luke.qmd
+    - content/books/john.qmd
+    - content/books/acts.qmd
+    - content/books/romans.qmd
+    - content/books/1-corinthians.qmd
+    - content/books/2-corinthians.qmd
+    - content/books/galatians.qmd
+    - content/books/ephesians.qmd
+    - content/books/philippians.qmd
+    - content/books/colossians.qmd
+    - content/books/1-thessalonians.qmd
+    - content/books/2-thessalonians.qmd
+    - content/books/1-timothy.qmd
+    - content/books/2-timothy.qmd
+    - content/books/titus.qmd
+    - content/books/philemon.qmd
+    - content/books/hebrews.qmd
+    - content/books/james.qmd
+    - content/books/1-peter.qmd
+    - content/books/2-peter.qmd
+    - content/books/1-john.qmd
+    - content/books/2-john.qmd
+    - content/books/3-john.qmd
+    - content/books/jude.qmd
+    - content/books/revelation.qmd
+    - content/indexes/scripture-index.qmd
+    - content/indexes/validation-report.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles/bible.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+  epub:
+    toc: true
+  pdf:
+    documentclass: scrbook
+    toc: true
+    number-sections: false
+    geometry:
+      - top=0.8in
+      - bottom=0.8in
+      - left=0.85in
+      - right=0.85in
+    include-in-header: styles/print-header.tex
+
+execute:
+  freeze: auto

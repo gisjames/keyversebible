@@ -1,0 +1,60 @@
+---
+title: "Joel"
+---
+
+# Joel
+
+::: {.book-summary}
+## Book Summary Insight
+
+Joel uses a devastating plague to call God's people to repentance while pointing toward the coming Day of the Lord and the outpouring of the Holy Spirit.
+:::
+
+::: {.chapter-entry}
+## Chapter 1
+
+<div class="key-verse">Joel 1:15</div>
+
+<div class="identifier">Alas for the day!</div>
+
+### Why This Verse
+
+Introduction to the Day of the LORD
+
+### Chapter Insight
+
+This chapter describes a devastating locust plague and calls the nation to mourn and repent. The key verse emphasizes recognizing God's warning through national calamity and turning back to Him.
+:::
+
+::: {.chapter-entry}
+## Chapter 2
+
+<div class="key-verse">Joel 2:28</div>
+
+<div class="identifier">I will pour out My Spirit upon all flesh</div>
+
+### Why This Verse
+
+Quoted by Peter in Acts 2
+
+### Chapter Insight
+
+This chapter warns of the coming Day of the Lord while offering hope through repentance. The key verse reveals God's promise to pour out His Spirit upon all people and bring restoration.
+:::
+
+::: {.chapter-entry}
+## Chapter 3
+
+<div class="key-verse">Joel 3:14</div>
+
+<div class="identifier">Multitudes, multitudes in the valley of decision</div>
+
+### Why This Verse
+
+One of Joel's best-known verses
+
+### Chapter Insight
+
+This chapter portrays God's judgment upon the nations and deliverance for His people. The key verse emphasizes God's role as refuge and protector of those who belong to Him.
+:::
+

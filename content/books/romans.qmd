@@ -1,0 +1,268 @@
+---
+title: "Romans"
+---
+
+# Romans
+
+::: {.book-summary}
+## Book Summary Insight
+
+Romans provides the Bible's most comprehensive explanation of the gospel. Paul demonstrates that all people are sinners in need of grace, that salvation comes through faith in Jesus Christ alone, and that believers are called to live transformed lives empowered by the Holy Spirit for the glory of God.
+:::
+
+::: {.chapter-entry}
+## Chapter 1
+
+<div class="key-verse">Romans 1:16</div>
+
+<div class="identifier">I am not ashamed of the gospel</div>
+
+### Why This Verse
+
+Theme statement of Romans
+
+### Chapter Insight
+
+This chapter reveals humanity's rejection of God and resulting moral decline. The key verse declares the gospel as God's power for salvation to all who believe.
+:::
+
+::: {.chapter-entry}
+## Chapter 2
+
+<div class="key-verse">Romans 2:11</div>
+
+<div class="identifier">There is no respect of persons with God</div>
+
+### Why This Verse
+
+Divine impartiality
+
+### Chapter Insight
+
+This chapter warns against self-righteous judgment. The key verse teaches that God's judgment is impartial and based on truth.
+:::
+
+::: {.chapter-entry}
+## Chapter 3
+
+<div class="key-verse">Romans 3:23</div>
+
+<div class="identifier">All have sinned and fallen short</div>
+
+### Why This Verse
+
+One of the most quoted verses in Christianity
+
+### Chapter Insight
+
+This chapter establishes universal human sinfulness and God's provision of justification through faith. The key verse summarizes that all have sinned and fall short of God's glory.
+:::
+
+::: {.chapter-entry}
+## Chapter 4
+
+<div class="key-verse">Romans 4:3</div>
+
+<div class="identifier">Abraham believed God</div>
+
+### Why This Verse
+
+Justification by faith
+
+### Chapter Insight
+
+This chapter uses Abraham as an example of justification by faith. The key verse emphasizes righteousness credited through faith rather than works.
+:::
+
+::: {.chapter-entry}
+## Chapter 5
+
+<div class="key-verse">Romans 5:8</div>
+
+<div class="identifier">God demonstrates His love toward us</div>
+
+### Why This Verse
+
+Classic salvation verse
+
+### Chapter Insight
+
+This chapter explains the blessings of justification and contrasts Adam with Christ. The key verse highlights God's love demonstrated through Christ's death for sinners.
+:::
+
+::: {.chapter-entry}
+## Chapter 6
+
+<div class="key-verse">Romans 6:23</div>
+
+<div class="identifier">The wages of sin is death</div>
+
+### Why This Verse
+
+One of the most memorized verses in Scripture
+
+### Chapter Insight
+
+This chapter teaches freedom from sin through union with Christ. The key verse calls believers to present themselves to God as instruments of righteousness.
+:::
+
+::: {.chapter-entry}
+## Chapter 7
+
+<div class="key-verse">Romans 7:19</div>
+
+<div class="identifier">The good that I would I do not</div>
+
+### Why This Verse
+
+Struggle with sin
+
+### Chapter Insight
+
+This chapter describes the struggle between the law, sin, and human weakness. The key verse expresses the need for deliverance from the power of sin.
+:::
+
+::: {.chapter-entry}
+## Chapter 8
+
+<div class="key-verse">Romans 8:28</div>
+
+<div class="identifier">All things work together for good</div>
+
+### Why This Verse
+
+One of the most beloved promises in the Bible
+
+### Chapter Insight
+
+This chapter celebrates life in the Spirit and the assurance of salvation. The key verse proclaims that nothing can separate believers from the love of God in Christ.
+:::
+
+::: {.chapter-entry}
+## Chapter 9
+
+<div class="key-verse">Romans 9:15</div>
+
+<div class="identifier">I will have mercy on whom I will have mercy</div>
+
+### Why This Verse
+
+Divine sovereignty
+
+### Chapter Insight
+
+This chapter explores God's sovereignty in salvation and His dealings with Israel. The key verse emphasizes God's freedom and mercy in accomplishing His purposes.
+:::
+
+::: {.chapter-entry}
+## Chapter 10
+
+<div class="key-verse">Romans 10:9</div>
+
+<div class="identifier">If thou shalt confess with thy mouth</div>
+
+### Why This Verse
+
+Core salvation passage
+
+### Chapter Insight
+
+This chapter explains Israel's need for faith in Christ. The key verse declares that salvation is available to everyone who calls upon the name of the Lord.
+:::
+
+::: {.chapter-entry}
+## Chapter 11
+
+<div class="key-verse">Romans 11:29</div>
+
+<div class="identifier">The gifts and calling of God are without repentance</div>
+
+### Why This Verse
+
+Frequently quoted doctrine
+
+### Chapter Insight
+
+This chapter describes God's continuing plan for Israel and the Gentiles. The key verse highlights God's wisdom and faithfulness in redemption history.
+:::
+
+::: {.chapter-entry}
+## Chapter 12
+
+<div class="key-verse">Romans 12:2</div>
+
+<div class="identifier">Be transformed by the renewing of your mind</div>
+
+### Why This Verse
+
+Christian living
+
+### Chapter Insight
+
+This chapter begins practical instruction for Christian living. The key verse calls believers to present themselves as living sacrifices to God.
+:::
+
+::: {.chapter-entry}
+## Chapter 13
+
+<div class="key-verse">Romans 13:1</div>
+
+<div class="identifier">Let every soul be subject unto higher powers</div>
+
+### Why This Verse
+
+Government and authority
+
+### Chapter Insight
+
+This chapter addresses submission to governing authorities and the law of love. The key verse teaches that love fulfills God's moral law.
+:::
+
+::: {.chapter-entry}
+## Chapter 14
+
+<div class="key-verse">Romans 14:11</div>
+
+<div class="identifier">Every knee shall bow to Me</div>
+
+### Why This Verse
+
+Accountability before God
+
+### Chapter Insight
+
+This chapter discusses Christian liberty and consideration for others. The key verse emphasizes pursuing peace and mutual edification.
+:::
+
+::: {.chapter-entry}
+## Chapter 15
+
+<div class="key-verse">Romans 15:13</div>
+
+<div class="identifier">The God of hope fill you with all joy and peace</div>
+
+### Why This Verse
+
+Famous benediction
+
+### Chapter Insight
+
+This chapter encourages unity among believers and highlights Paul's ministry. The key verse presents Christ as the model of selfless service.
+:::
+
+::: {.chapter-entry}
+## Chapter 16
+
+<div class="key-verse">Romans 16:17</div>
+
+<div class="identifier">Mark them which cause divisions</div>
+
+### Why This Verse
+
+Final exhortation
+
+### Chapter Insight
+
+This chapter contains greetings, commendations, and final exhortations. The key verse celebrates God's power to establish believers through the gospel.
+:::
+

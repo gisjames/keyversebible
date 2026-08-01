@@ -1,0 +1,76 @@
+---
+title: "Ruth"
+---
+
+# Ruth
+
+::: {.book-summary}
+## Book Summary Insight
+
+Ruth tells a story of loyalty, redemption, and God's providence through ordinary lives. The book teaches that God works faithfully behind the scenes to accomplish His redemptive purposes.
+:::
+
+::: {.chapter-entry}
+## Chapter 1
+
+<div class="key-verse">Ruth 1:16</div>
+
+<div class="identifier">Whither thou goest, I will go</div>
+
+### Why This Verse
+
+Most famous verse in Ruth
+
+### Chapter Insight
+
+This chapter records Naomi's loss and Ruth's decision to remain with her. The key verse demonstrates covenant loyalty, faithfulness, and commitment to God despite hardship.
+:::
+
+::: {.chapter-entry}
+## Chapter 2
+
+<div class="key-verse">Ruth 2:12</div>
+
+<div class="identifier">The LORD recompense thy work</div>
+
+### Why This Verse
+
+Boaz's blessing
+
+### Chapter Insight
+
+This chapter recounts Ruth's providential encounter with Boaz. The key verse highlights God's unseen guidance and provision through the kindness of others.
+:::
+
+::: {.chapter-entry}
+## Chapter 3
+
+<div class="key-verse">Ruth 3:11</div>
+
+<div class="identifier">All the city knows you are virtuous</div>
+
+### Why This Verse
+
+Ruth's character affirmed
+
+### Chapter Insight
+
+This chapter records Ruth's appeal to Boaz as kinsman-redeemer. The key verse emphasizes redemption, protection, and faithful obedience to God's design.
+:::
+
+::: {.chapter-entry}
+## Chapter 4
+
+<div class="key-verse">Ruth 4:17</div>
+
+<div class="identifier">A son born to Naomi</div>
+
+### Why This Verse
+
+Connects Ruth to David's lineage
+
+### Chapter Insight
+
+This chapter concludes with Boaz redeeming Ruth and establishing a family line. The key verse reveals God's sovereign plan in bringing forth the lineage of King David and ultimately the Messiah.
+:::
+

@@ -1,0 +1,28 @@
+---
+title: "Philemon"
+---
+
+# Philemon
+
+::: {.book-summary}
+## Book Summary Insight
+
+Philemon demonstrates the transforming power of the gospel through forgiveness, reconciliation, and Christian brotherhood.
+:::
+
+::: {.chapter-entry}
+## Chapter 1
+
+<div class="key-verse">Philemon 1:16</div>
+
+<div class="identifier">No longer as a servant, but above a servant, a brother beloved</div>
+
+### Why This Verse
+
+Central message of reconciliation
+
+### Chapter Insight
+
+This chapter is Paul's personal appeal for Onesimus, a runaway slave who became a believer. The key verse emphasizes reconciliation, forgiveness, and receiving a fellow believer as a beloved brother in Christ.
+:::
+

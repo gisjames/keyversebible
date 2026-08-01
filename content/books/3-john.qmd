@@ -1,0 +1,28 @@
+---
+title: "3 John"
+---
+
+# 3 John
+
+::: {.book-summary}
+## Book Summary Insight
+
+3 John focuses on faithfulness, hospitality, and godly leadership, encouraging believers to support the work of the gospel and imitate what is good.
+:::
+
+::: {.chapter-entry}
+## Chapter 1
+
+<div class="key-verse">3 John 1:2</div>
+
+<div class="identifier">Beloved, I wish above all things that thou mayest prosper</div>
+
+### Why This Verse
+
+Most frequently quoted verse
+
+### Chapter Insight
+
+This chapter commends Gaius for his faithfulness and hospitality, warns against the prideful behavior of Diotrephes, and encourages believers to imitate what is good. The key verse emphasizes supporting those who faithfully serve the truth and following godly examples.
+:::
+

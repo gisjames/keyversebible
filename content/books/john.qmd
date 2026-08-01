@@ -1,0 +1,348 @@
+---
+title: "John"
+---
+
+# John
+
+::: {.book-summary}
+## Book Summary Insight
+
+John presents Jesus as the eternal Son of God so that readers may believe in Him and receive eternal life. The book emphasizes faith, love, and the deity of Christ.
+:::
+
+::: {.chapter-entry}
+## Chapter 1
+
+<div class="key-verse">John 1:1</div>
+
+<div class="identifier">In the beginning was the Word</div>
+
+### Why This Verse
+
+Foundational Christological verse
+
+### Chapter Insight
+
+This chapter introduces Jesus as the eternal Word made flesh and records the calling of the first disciples. The key verse reveals Christ's divine nature and His coming to dwell among humanity.
+:::
+
+::: {.chapter-entry}
+## Chapter 2
+
+<div class="key-verse">John 2:5</div>
+
+<div class="identifier">Whatsoever He saith unto you, do it</div>
+
+### Why This Verse
+
+Cana miracle instruction
+
+### Chapter Insight
+
+This chapter records Jesus' first miracle and the cleansing of the Temple. The key verse demonstrates Jesus' authority and reveals His glory.
+:::
+
+::: {.chapter-entry}
+## Chapter 3
+
+<div class="key-verse">John 3:16</div>
+
+<div class="identifier">For God so loved the world</div>
+
+### Why This Verse
+
+Most famous verse in Christianity
+
+### Chapter Insight
+
+This chapter contains Jesus' conversation with Nicodemus. The key verse teaches that eternal life comes through faith in God's Son.
+:::
+
+::: {.chapter-entry}
+## Chapter 4
+
+<div class="key-verse">John 4:24</div>
+
+<div class="identifier">God is a Spirit</div>
+
+### Why This Verse
+
+Foundational statement on worship
+
+### Chapter Insight
+
+This chapter records Jesus' ministry to the Samaritan woman and many others. The key verse reveals Jesus as the source of living water and true worship.
+:::
+
+::: {.chapter-entry}
+## Chapter 5
+
+<div class="key-verse">John 5:24</div>
+
+<div class="identifier">He that hears My word has everlasting life</div>
+
+### Why This Verse
+
+Assurance of salvation
+
+### Chapter Insight
+
+This chapter recounts the healing at Bethesda and Jesus' claims of equality with the Father. The key verse emphasizes Jesus' authority to give life and execute judgment.
+:::
+
+::: {.chapter-entry}
+## Chapter 6
+
+<div class="key-verse">John 6:35</div>
+
+<div class="identifier">I am the bread of life</div>
+
+### Why This Verse
+
+First major "I Am" statement
+
+### Chapter Insight
+
+This chapter records the feeding of the five thousand and the Bread of Life discourse. The key verse presents Jesus as the true bread from heaven who satisfies spiritual hunger.
+:::
+
+::: {.chapter-entry}
+## Chapter 7
+
+<div class="key-verse">John 7:38</div>
+
+<div class="identifier">Rivers of living water</div>
+
+### Why This Verse
+
+Holy Spirit imagery
+
+### Chapter Insight
+
+This chapter records growing debate concerning Jesus' identity. The key verse invites all who thirst to come to Christ and receive living water.
+:::
+
+::: {.chapter-entry}
+## Chapter 8
+
+<div class="key-verse">John 8:32</div>
+
+<div class="identifier">Ye shall know the truth, and the truth shall make you free</div>
+
+### Why This Verse
+
+One of the most quoted verses in the NT
+
+### Chapter Insight
+
+This chapter records Jesus' teaching about truth, freedom, and His divine identity. The key verse reveals that true freedom comes through abiding in Christ and His truth.
+:::
+
+::: {.chapter-entry}
+## Chapter 9
+
+<div class="key-verse">John 9:25</div>
+
+<div class="identifier">Whereas I was blind, now I see</div>
+
+### Why This Verse
+
+Testimony of transformation
+
+### Chapter Insight
+
+This chapter recounts the healing of a man born blind. The key verse demonstrates that Jesus is the Light of the World who brings both physical and spiritual sight.
+:::
+
+::: {.chapter-entry}
+## Chapter 10
+
+<div class="key-verse">John 10:10</div>
+
+<div class="identifier">I am come that they might have life</div>
+
+### Why This Verse
+
+Abundant life verse
+
+### Chapter Insight
+
+This chapter presents Jesus as the Good Shepherd. The key verse emphasizes Christ's sacrificial care for His sheep and His authority to give eternal life.
+:::
+
+::: {.chapter-entry}
+## Chapter 11
+
+<div class="key-verse">John 11:25</div>
+
+<div class="identifier">I am the resurrection and the life</div>
+
+### Why This Verse
+
+One of Jesus' greatest declarations
+
+### Chapter Insight
+
+This chapter records the raising of Lazarus. The key verse declares Jesus to be the resurrection and the life.
+:::
+
+::: {.chapter-entry}
+## Chapter 12
+
+<div class="key-verse">John 12:32</div>
+
+<div class="identifier">If I be lifted up from the earth</div>
+
+### Why This Verse
+
+Crucifixion and salvation
+
+### Chapter Insight
+
+This chapter marks the final public phase of Jesus' ministry. The key verse emphasizes faith in Christ as the means of receiving eternal life.
+:::
+
+::: {.chapter-entry}
+## Chapter 13
+
+<div class="key-verse">John 13:35</div>
+
+<div class="identifier">By this shall all men know that ye are My disciples</div>
+
+### Why This Verse
+
+Love as Christian witness
+
+### Chapter Insight
+
+This chapter records Jesus washing the disciples' feet and giving a new commandment. The key verse teaches that love and humble service identify Christ's followers.
+:::
+
+::: {.chapter-entry}
+## Chapter 14
+
+<div class="key-verse">John 14:6</div>
+
+<div class="identifier">I am the way, the truth, and the life</div>
+
+### Why This Verse
+
+One of the most cited verses in the Bible
+
+### Chapter Insight
+
+This chapter begins the Upper Room Discourse. The key verse reveals Jesus as the exclusive way to the Father and promises the coming of the Holy Spirit.
+:::
+
+::: {.chapter-entry}
+## Chapter 15
+
+<div class="key-verse">John 15:5</div>
+
+<div class="identifier">I am the vine, ye are the branches</div>
+
+### Why This Verse
+
+Abiding in Christ
+
+### Chapter Insight
+
+This chapter presents Jesus as the True Vine. The key verse emphasizes that spiritual fruitfulness comes only through abiding in Christ.
+:::
+
+::: {.chapter-entry}
+## Chapter 16
+
+<div class="key-verse">John 16:33</div>
+
+<div class="identifier">In the world ye shall have tribulation</div>
+
+### Why This Verse
+
+Peace through Christ
+
+### Chapter Insight
+
+This chapter prepares the disciples for Jesus' departure and the coming of the Holy Spirit. The key verse promises that sorrow will ultimately be transformed into joy through Christ's victory.
+:::
+
+::: {.chapter-entry}
+## Chapter 17
+
+<div class="key-verse">John 17:17</div>
+
+<div class="identifier">Sanctify them through Thy truth</div>
+
+### Why This Verse
+
+High Priestly Prayer
+
+### Chapter Insight
+
+This chapter contains Jesus' High Priestly Prayer. The key verse highlights Jesus' desire for unity, sanctification, and eternal fellowship for His followers.
+:::
+
+::: {.chapter-entry}
+## Chapter 18
+
+<div class="key-verse">John 18:37</div>
+
+<div class="identifier">For this cause came I into the world, that I should bear witness unto the truth</div>
+
+### Why This Verse
+
+Jesus before Pilate
+
+### Chapter Insight
+
+This chapter records Jesus' arrest, trial, and Peter's denial. The key verse demonstrates Christ's willing submission to the Father's redemptive plan.
+:::
+
+::: {.chapter-entry}
+## Chapter 19
+
+<div class="key-verse">John 19:30</div>
+
+<div class="identifier">It is finished</div>
+
+### Why This Verse
+
+One of Christ's final sayings
+
+### Chapter Insight
+
+This chapter recounts Jesus' crucifixion, death, and burial. The key verse declares the completion of Christ's atoning work.
+:::
+
+::: {.chapter-entry}
+## Chapter 20
+
+<div class="key-verse">John 20:29</div>
+
+<div class="identifier">Blessed are they that have not seen, and yet have believed</div>
+
+### Why This Verse
+
+Faith without sight
+
+### Chapter Insight
+
+This chapter records the resurrection appearances of Jesus. The key verse reveals the purpose of John's Gospel: that people may believe and have life through Christ.
+:::
+
+::: {.chapter-entry}
+## Chapter 21
+
+<div class="key-verse">John 21:17</div>
+
+<div class="identifier">Lord, Thou knowest that I love Thee</div>
+
+### Why This Verse
+
+Restoration of Peter
+
+### Chapter Insight
+
+This chapter records Jesus' appearance by the Sea of Galilee and the restoration of Peter. The key verse emphasizes love for Christ expressed through faithful service.
+:::
+

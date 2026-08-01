@@ -1,0 +1,60 @@
+---
+title: "Titus"
+---
+
+# Titus
+
+::: {.book-summary}
+## Book Summary Insight
+
+Titus focuses on healthy churches through sound doctrine, godly leadership, and transformed lives marked by good works.
+:::
+
+::: {.chapter-entry}
+## Chapter 1
+
+<div class="key-verse">Titus 1:15</div>
+
+<div class="identifier">Unto the pure all things are pure</div>
+
+### Why This Verse
+
+Frequently quoted principle
+
+### Chapter Insight
+
+This chapter outlines qualifications for elders and warns against false teachers. The key verse emphasizes that church leaders must be people of godly character who faithfully uphold sound doctrine.
+:::
+
+::: {.chapter-entry}
+## Chapter 2
+
+<div class="key-verse">Titus 2:11</div>
+
+<div class="identifier">The grace of God that brings salvation has appeared</div>
+
+### Why This Verse
+
+Salvation and discipleship
+
+### Chapter Insight
+
+This chapter teaches practical Christian living for various groups within the church. The key verse highlights God's grace as the foundation for holy and self-controlled living.
+:::
+
+::: {.chapter-entry}
+## Chapter 3
+
+<div class="key-verse">Titus 3:5</div>
+
+<div class="identifier">Not by works of righteousness which we have done</div>
+
+### Why This Verse
+
+One of the clearest salvation verses
+
+### Chapter Insight
+
+This chapter emphasizes good works, salvation by grace, and Christian conduct. The key verse teaches that salvation comes through God's mercy and spiritual renewal rather than human righteousness.
+:::
+
