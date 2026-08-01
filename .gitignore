@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Quarto working files
+.quarto/
+
+# Rendered output
+output/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
