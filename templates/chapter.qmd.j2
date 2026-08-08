@@ -1,0 +1,44 @@
+---
+title: "{{ book }} {{ chapter }} Key Verse | {{ verse }}"
+description: "Discover the key verse for {{ book }} {{ chapter }} ({{ verse }}), why it represents the chapter, and a concise chapter insight."
+---
+
+# {{ book }} {{ chapter }} Key Verse
+
+## Key Verse for {{ book }} Chapter {{ chapter }}
+
+### {{ verse }}
+
+**{{ identifier }}**
+
+## Why This Verse?
+
+{{ why }}
+
+## Chapter Insight
+
+{{ insight }}
+
+{% if major_characters %}
+## Major Characters
+
+{{ major_characters }}
+{% endif %}
+
+{% if keywords %}
+## Key Themes and Topics
+
+{{ keywords }}
+{% endif %}
+
+---
+
+[← {{ book }} Overview](../index.qmd)
+
+{% if previous_chapter %}
+[← {{ book }} {{ previous_chapter }}](../{{ previous_chapter }}/index.qmd)
+{% endif %}
+
+{% if next_chapter %}
+[{{ book }} {{ next_chapter }} →](../{{ next_chapter }}/index.qmd)
+{% endif %}

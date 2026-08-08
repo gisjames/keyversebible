@@ -3,7 +3,6 @@ project:
   output-dir: output
   pre-render:
     - python scripts/build.py --generate-only
-
 metadata-files:
   - metadata.yml
 
