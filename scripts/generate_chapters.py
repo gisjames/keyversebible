@@ -19,8 +19,9 @@ def generate():
     )
 
     template = env.get_template("chapter.qmd.j2")
+    book_template = env.get_template("book-index.qmd.j2")
 
-    output_root = ROOT / "chapters"
+    output_root = ROOT
     output_root.mkdir(parents=True, exist_ok=True)
 
     generated = 0
@@ -28,6 +29,21 @@ def generate():
     for book, rows in grouped.items():
         rows = sorted(rows, key=lambda x: x["chapter"])
         book_slug = slug(book)
+        book_dir = output_root / book_slug
+        book_dir.mkdir(parents=True, exist_ok=True)
+
+        book_info = books[book]
+
+        book_text = book_template.render(
+            book=book,
+            summary=book_info["summary"],
+            chapters=rows,
+        )
+
+        (book_dir / "index.qmd").write_text(
+            book_text,
+            encoding="utf-8",
+        )
 
         for index, chapter in enumerate(rows):
             chapter_number = chapter["chapter"]

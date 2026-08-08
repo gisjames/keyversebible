@@ -1,0 +1,23 @@
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles/bible.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+
+  epub:
+    toc: true
+
+  pdf:
+    documentclass: scrbook
+    toc: true
+    number-sections: false
+    geometry:
+      - top=0.8in
+      - bottom=0.8in
+      - left=0.85in
+      - right=0.85in
+    include-in-header: styles/print-header.tex

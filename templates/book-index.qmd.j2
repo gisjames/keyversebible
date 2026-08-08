@@ -1,0 +1,14 @@
+---
+title: "{{ book }} Key Verses by Chapter"
+description: "Explore the key verse for every chapter of {{ book }}, with chapter insights and explanations."
+---
+
+# {{ book }} Key Verses by Chapter
+
+{{ summary }}
+
+## Chapters
+
+{% for c in chapters %}
+- [{{ book }} {{ c.chapter }} — {{ c.verse }}]({{ c.chapter }}/index.qmd)
+{% endfor %}

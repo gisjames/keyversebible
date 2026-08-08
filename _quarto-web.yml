@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: output-web
+  pre-render:
+    - python scripts/build.py --generate-only
+    - python scripts/generate_chapters.py
+  render:
+    - index.qmd
+    - content/frontmatter/*.qmd
+    - content/books/*.qmd
+    - content/indexes/*.qmd
+    - "*/index.qmd"
+    - "*/*/index.qmd"
+
+website:
+  title: "The Key Verse of Every Chapter of the Bible"
+  site-url: "https://gisjames.github.io/keyversebible/"
+  description: "Discover a representative key verse from every chapter of the Bible, with chapter insights, explanations, and book summaries."
+
+  search: true
+
+  navbar:
+    title: "Key Verse Bible"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: content/frontmatter/methodology.qmd
+        text: Methodology
+      - href: content/indexes/scripture-index.qmd
+        text: Scripture Index
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles/bible.css
+    toc: true
+    toc-depth: 3
