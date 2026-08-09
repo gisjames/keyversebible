@@ -1,11 +1,13 @@
 ---
 title: "{{ book }} {{ chapter }} Key Verse | {{ verse }}"
-description: "Discover the key verse for {{ book }} {{ chapter }} ({{ verse }}), why it represents the chapter, and a concise chapter insight."
+description: "Discover the key verse for {{ book }} {{ chapter }} ({{ verse }}), why it represents the chapter, and a concise insight into its meaning and message."
+author: "James Vogl"
+lang: en
 ---
 
 # {{ book }} {{ chapter }} Key Verse
 
-## Key Verse for {{ book }} Chapter {{ chapter }}
+## Key Verse for {{ book }} {{ chapter }}
 
 ### {{ verse }}
 
@@ -33,11 +35,13 @@ description: "Discover the key verse for {{ book }} {{ chapter }} ({{ verse }}),
 
 ---
 
-[← {{ book }} Overview](../index.qmd)
+[Home](../../index.qmd) > [{{ book }}](../index.qmd) > {{ book }} {{ chapter }}
 
 {% if previous_chapter %}
 [← {{ book }} {{ previous_chapter }}](../{{ previous_chapter }}/index.qmd)
 {% endif %}
+
+[{{ book }} Overview](../index.qmd)
 
 {% if next_chapter %}
 [{{ book }} {{ next_chapter }} →](../{{ next_chapter }}/index.qmd)

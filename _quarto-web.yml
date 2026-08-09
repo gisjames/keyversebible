@@ -18,6 +18,8 @@ website:
   description: "Discover a representative key verse from every chapter of the Bible, with chapter insights, explanations, and book summaries."
 
   search: true
+  open-graph: true
+  twitter-card: true
 
   navbar:
     title: "Key Verse Bible"
@@ -37,3 +39,4 @@ format:
     css: styles/bible.css
     toc: true
     toc-depth: 3
+    canonical-url: true
