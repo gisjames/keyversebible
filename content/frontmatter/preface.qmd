@@ -1,3 +1,9 @@
+---
+title: "Preface | The Key Verse of Every Chapter of the Bible"
+description: "Read the preface to The Key Verse of Every Chapter of the Bible and learn how this study guide helps connect representative verses with each chapter's larger message."
+lang: en
+---
+
 # Preface {.unnumbered}
 
 This guide was created to help readers move quickly from a familiar or representative verse to the larger message of the chapter in which it appears. Each chapter entry includes a key verse, a short identifier, a concise reason for its selection, and an insight connecting that verse to the chapter as a whole.
