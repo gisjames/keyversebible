@@ -1,8 +1,21 @@
 ---
 title: "The Key Verse of Every Chapter of the Bible"
 subtitle: "Representative Verses, Chapter Insights, and Book Summaries for All 1,189 Chapters"
+description: "Explore a representative key verse from every chapter of the Bible, with explanations, chapter insights, book summaries, and links to all 1,189 chapters."
 author: "Compiled and Edited by James Vogl"
+lang: en
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "The Key Verse of Every Chapter of the Bible",
+  "url": "https://gisjames.github.io/keyversebible/",
+  "description": "Explore a representative key verse from every chapter of the Bible, with explanations, chapter insights, book summaries, and links to all 1,189 chapters.",
+  "inLanguage": "en"
+}
+</script>
 
 # Welcome {.unnumbered}
 
@@ -15,3 +28,90 @@ Use the table of contents or website search to move directly to any biblical boo
 ::: {.callout-note title="A Study Companion"}
 No single verse can communicate the full depth of an entire chapter. Readers are encouraged to read every chapter in full and consider the selected verse within its literary and theological context.
 :::
+
+## Explore the Bible by Book
+
+Browse the key verse, explanation, and chapter insight for every chapter of the Bible. Select a book below to begin exploring its chapters.
+
+### Old Testament
+
+[Genesis](genesis/index.qmd) ·
+[Exodus](exodus/index.qmd) ·
+[Leviticus](leviticus/index.qmd) ·
+[Numbers](numbers/index.qmd) ·
+[Deuteronomy](deuteronomy/index.qmd) ·
+[Joshua](joshua/index.qmd) ·
+[Judges](judges/index.qmd) ·
+[Ruth](ruth/index.qmd) ·
+[1 Samuel](1-samuel/index.qmd) ·
+[2 Samuel](2-samuel/index.qmd) ·
+[1 Kings](1-kings/index.qmd) ·
+[2 Kings](2-kings/index.qmd) ·
+[1 Chronicles](1-chronicles/index.qmd) ·
+[2 Chronicles](2-chronicles/index.qmd) ·
+[Ezra](ezra/index.qmd) ·
+[Nehemiah](nehemiah/index.qmd) ·
+[Esther](esther/index.qmd) ·
+[Job](job/index.qmd) ·
+[Psalms](psalms/index.qmd) ·
+[Proverbs](proverbs/index.qmd) ·
+[Ecclesiastes](ecclesiastes/index.qmd) ·
+[Song of Solomon](song-of-solomon/index.qmd) ·
+[Isaiah](isaiah/index.qmd) ·
+[Jeremiah](jeremiah/index.qmd) ·
+[Lamentations](lamentations/index.qmd) ·
+[Ezekiel](ezekiel/index.qmd) ·
+[Daniel](daniel/index.qmd) ·
+[Hosea](hosea/index.qmd) ·
+[Joel](joel/index.qmd) ·
+[Amos](amos/index.qmd) ·
+[Obadiah](obadiah/index.qmd) ·
+[Jonah](jonah/index.qmd) ·
+[Micah](micah/index.qmd) ·
+[Nahum](nahum/index.qmd) ·
+[Habakkuk](habakkuk/index.qmd) ·
+[Zephaniah](zephaniah/index.qmd) ·
+[Haggai](haggai/index.qmd) ·
+[Zechariah](zechariah/index.qmd) ·
+[Malachi](malachi/index.qmd)
+
+### New Testament
+
+[Matthew](matthew/index.qmd) ·
+[Mark](mark/index.qmd) ·
+[Luke](luke/index.qmd) ·
+[John](john/index.qmd) ·
+[Acts](acts/index.qmd) ·
+[Romans](romans/index.qmd) ·
+[1 Corinthians](1-corinthians/index.qmd) ·
+[2 Corinthians](2-corinthians/index.qmd) ·
+[Galatians](galatians/index.qmd) ·
+[Ephesians](ephesians/index.qmd) ·
+[Philippians](philippians/index.qmd) ·
+[Colossians](colossians/index.qmd) ·
+[1 Thessalonians](1-thessalonians/index.qmd) ·
+[2 Thessalonians](2-thessalonians/index.qmd) ·
+[1 Timothy](1-timothy/index.qmd) ·
+[2 Timothy](2-timothy/index.qmd) ·
+[Titus](titus/index.qmd) ·
+[Philemon](philemon/index.qmd) ·
+[Hebrews](hebrews/index.qmd) ·
+[James](james/index.qmd) ·
+[1 Peter](1-peter/index.qmd) ·
+[2 Peter](2-peter/index.qmd) ·
+[1 John](1-john/index.qmd) ·
+[2 John](2-john/index.qmd) ·
+[3 John](3-john/index.qmd) ·
+[Jude](jude/index.qmd) ·
+[Revelation](revelation/index.qmd)
+
+## Popular Bible Chapters
+
+Start with several widely studied chapters:
+
+- [Genesis 1 Key Verse](genesis/1/index.qmd)
+- [Psalm 23 Key Verse](psalms/23/index.qmd)
+- [Isaiah 53 Key Verse](isaiah/53/index.qmd)
+- [John 3 Key Verse](john/3/index.qmd)
+- [Romans 8 Key Verse](romans/8/index.qmd)
+- [1 Corinthians 13 Key Verse](1-corinthians/13/index.qmd)

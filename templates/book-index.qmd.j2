@@ -1,0 +1,22 @@
+---
+title: "{{ book }} Key Verses by Chapter"
+description: "Explore the key verse for every chapter of {{ book }}, with chapter insights, explanations, and links to each chapter."
+author: "James Vogl"
+lang: en
+---
+
+<script type="application/ld+json">
+{{ schema_json }}
+</script>
+
+# {{ book }} Key Verses by Chapter
+
+{{ summary }}
+
+This guide provides a representative key verse for each chapter of {{ book }}, along with a chapter insight and an explanation of why each verse was selected. Choose a chapter below to explore its key verse in context.
+
+## {{ book }} Chapters
+
+{% for c in chapters %}
+- [{{ book }} {{ c.chapter }} | {{ c.verse }}]({{ c.chapter }}/index.qmd)
+{% endfor %}

@@ -34,8 +34,8 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render HTML website
-        run: quarto render --to html
+      - name: Render V4 website
+        run: quarto render --profile web
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
@@ -43,7 +43,7 @@ jobs:
       - name: Upload website
         uses: actions/upload-pages-artifact@v3
         with:
-          path: output
+          path: output-web
 
   deploy:
     environment:

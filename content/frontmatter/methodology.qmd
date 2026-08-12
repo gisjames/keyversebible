@@ -1,3 +1,9 @@
+---
+title: "Methodology | How Key Verses Were Selected"
+description: "Learn how representative key verses were selected for all 1,189 chapters of the Bible, including the criteria used for chapter insights and verse selection."
+lang: en
+---
+
 # About This Guide {.unnumbered}
 
 The Bible contains **1,189 chapters**, and nearly every chapter includes multiple verses that are significant for doctrine, history, worship, wisdom, or personal devotion. Choosing a single verse to represent an entire chapter is therefore an interpretive exercise rather than a definitive judgment.

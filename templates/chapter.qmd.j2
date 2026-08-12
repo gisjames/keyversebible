@@ -1,0 +1,52 @@
+---
+title: "{{ book }} {{ chapter }} Key Verse | {{ verse }}"
+description: "Discover the key verse for {{ book }} {{ chapter }} ({{ verse }}), why it represents the chapter, and a concise insight into its meaning and message."
+author: "James Vogl"
+lang: en
+---
+
+<script type="application/ld+json">
+{{ schema_json }}
+</script>
+
+# {{ book }} {{ chapter }} Key Verse
+
+## Key Verse for {{ book }} {{ chapter }}
+
+### {{ verse }}
+
+**{{ identifier }}**
+
+## Why This Verse?
+
+{{ why }}
+
+## Chapter Insight
+
+{{ insight }}
+
+{% if major_characters %}
+## Major Characters
+
+{{ major_characters }}
+{% endif %}
+
+{% if keywords %}
+## Key Themes and Topics
+
+{{ keywords }}
+{% endif %}
+
+---
+
+[Home](../../index.qmd) > [{{ book }}](../index.qmd) > {{ book }} {{ chapter }}
+
+{% if previous_chapter %}
+[← {{ book }} {{ previous_chapter }}](../{{ previous_chapter }}/index.qmd)
+{% endif %}
+
+[{{ book }} Overview](../index.qmd)
+
+{% if next_chapter %}
+[{{ book }} {{ next_chapter }} →](../{{ next_chapter }}/index.qmd)
+{% endif %}
