@@ -10,6 +10,7 @@ project:
     - index.qmd
     - content/frontmatter/preface.qmd
     - content/frontmatter/methodology.qmd
+    - content/frontmatter/contact.qmd
     - content/indexes/scripture-index.qmd
 
     # - content/books/*.qmd
