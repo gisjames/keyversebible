@@ -37,6 +37,8 @@ website:
         text: Methodology
       - href: content/indexes/scripture-index.qmd
         text: Scripture Index
+      - href: content/frontmatter/contact.qmd
+        text: Contact
 
 format:
   html:
