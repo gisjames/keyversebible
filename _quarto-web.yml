@@ -1,6 +1,7 @@
 project:
   resources:
   - googleb8ffeae2840b0dfa.html
+  - downloads/**
   type: website
   output-dir: output-web
   pre-render:
@@ -11,6 +12,7 @@ project:
     - content/frontmatter/preface.qmd
     - content/frontmatter/methodology.qmd
     - content/frontmatter/contact.qmd
+    - content/frontmatter/download.qmd
     - content/indexes/scripture-index.qmd
 
     # - content/books/*.qmd
@@ -37,6 +39,8 @@ website:
         text: Methodology
       - href: content/indexes/scripture-index.qmd
         text: Scripture Index
+      - href: content/frontmatter/download.qmd
+        text: Download
       - href: content/frontmatter/contact.qmd
         text: Contact
 
