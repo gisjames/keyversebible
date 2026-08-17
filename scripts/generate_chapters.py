@@ -3,6 +3,7 @@ import json
 from jinja2 import Environment, FileSystemLoader
 
 from common import load_data, ROOT, slug
+from urllib.parse import urlencode
 
 
 def generate():
@@ -100,6 +101,13 @@ def generate():
 
         for index, chapter in enumerate(rows):
             chapter_number = chapter["chapter"]
+            full_chapter_url = (
+               "https://www.biblegateway.com/passage/?"
+                + urlencode({
+                    "search": f"{book} {chapter_number}",
+                    "version": "KJV",
+                })
+)
             canonical_url = (
                 f"https://gisjames.github.io/keyversebible/"
                 f"{book_slug}/{chapter_number}/"
@@ -192,6 +200,7 @@ def generate():
                 previous_chapter=previous_chapter,
                 next_chapter=next_chapter,
                 schema_json=schema_json,
+                full_chapter_url=full_chapter_url,
             )
 
             output_file = output_dir / "index.qmd"
