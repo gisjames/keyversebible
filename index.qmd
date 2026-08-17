@@ -29,6 +29,15 @@ Use the table of contents or website search to move directly to any biblical boo
 No single verse can communicate the full depth of an entire chapter. Readers are encouraged to read every chapter in full and consider the selected verse within its literary and theological context.
 :::
 
+::: {.callout-tip title="Prefer to Read Offline?"}
+Download the complete **The Key Verse of Every Chapter of the Bible** for offline reading.
+
+- [Download the EPUB edition](downloads/the-key-verse-of-every-chapter-of-the-bible.epub)
+- [Download the PDF edition](downloads/the-key-verse-of-every-chapter-of-the-bible.pdf)
+
+You can also visit the [Download page](content/frontmatter/download.qmd) for more information about each format.
+:::
+
 ## Explore the Bible by Book
 
 Browse the key verse, explanation, and chapter insight for every chapter of the Bible. Select a book below to begin exploring its chapters.
